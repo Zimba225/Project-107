@@ -1,0 +1,37 @@
+body
+{
+    background-color: lightblue;
+    font-family: 'Roboto' sans-serif;
+}
+
+.header_div
+{
+    background-color : rgb(171, 171, 171);
+    color: white;
+}
+
+.header_div p
+{
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-size: 12px;
+}
+
+.main_div
+{
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+}
+
+.copy_right_footer
+{
+    color: chocolate;
+    position: fixed;
+    text-shadow: 5px 5px 5px rgb(147, 144, 144);
+    bottom: 0%;
+    text-align: center;
+    line-height: 3;
+    background-color: aliceblue;
+    width: 100%;
+}
